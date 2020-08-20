@@ -857,7 +857,6 @@ hr{
 
 .clients__text:before{
     content: "";
-    position: relative;
     display: block;
     width: 60px;
     height: 3px;
@@ -1269,7 +1268,6 @@ hr{
 
     /* Clients */
     .clients{
-        width: 600px;
         margin: 0 auto;
     }
 
