@@ -656,6 +656,7 @@ hr{
 
 .reviews__item{
     padding-left: 205px;
+    min-height: 157px;
     position: relative;
 }
 
@@ -856,6 +857,7 @@ hr{
 
 .clients__text:before{
     content: "";
+    position: relative;
     display: block;
     width: 60px;
     height: 3px;
